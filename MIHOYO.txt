@@ -1,0 +1,1 @@
+Genshin is an open world game made by MIHOYO. By modifying the unity engine, the company successfully made a physical system that most companies could not build. For example, the movement of characters will drive the air flow, and the air flow will drive the the characters clothes.
