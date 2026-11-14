@@ -1,0 +1,1 @@
+One thing I like about SQL is that GROUP BY can summarize thousands of rows. For example, it can count how many records fall in each month.
